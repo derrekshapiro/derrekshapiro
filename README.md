@@ -1,5 +1,5 @@
 <h1>Hi, I'm Derrek! </h1>
-
+ As a dedicated cybersecurity professional, I am committed to securing digital assets and countering evolving cyber threats. My core values are attention to detail, teamwork, and strict adherence to industry best practices. In today's landscape of escalating cyber threats, I am unwavering in my dedication to assisting organizations in building robust defense systems. I am eager to leverage my skills, knowledge, and passion for cybersecurity to safeguard and empower businesses in our increasingly digital world.
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 <h2> Certifications</h2>
