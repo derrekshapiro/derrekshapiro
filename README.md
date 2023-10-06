@@ -1,7 +1,10 @@
-### Hi there 👋
+<h1>Hi, I'm Derrek! </h1>
 
-<!--
-**derrekshapiro/derrekshapiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+<h2> Certifications</h2>
+  Currently I am working on the Google Career Certificate for Cybersecurity Analyst!
+
 
 Here are some ideas to get you started:
 
